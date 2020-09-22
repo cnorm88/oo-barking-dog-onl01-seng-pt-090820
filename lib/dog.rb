@@ -12,7 +12,7 @@ class Dog
     puts "Woof!"
   end
 end
-end
+
 
 # class Dog
 #   def name=(dog_name)
